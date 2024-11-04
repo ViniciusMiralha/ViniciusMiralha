@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Seja bem-vindo!<br>🇧🇷🇧🇷🇧🇷</h1>
+<h1 align="left">Olá! Seja bem-vindo!</h1>
 
 ###
 
@@ -34,6 +34,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ViniciusMiralha/ViniciusMiralha/output/snake.svg" alt="Snake animation" />
-
-###
