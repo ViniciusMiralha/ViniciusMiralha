@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Vinícius Miralha Augusto Gomes 😉  <br>Sou estudante de Ciências da Computação e estou no primeiro ano pela SPTECH 📚<br><br>Além disso, tenho conhecimentos em:  <br>Desenvolvimento Web  <br>Análise de Sistemas  <br>Sistemas Operacionais</p>
+<p align="left">Meu nome é Vinícius Miralha Augusto Gomes 😉  <br>Sou estudante de Ciências da Computação e estou no segundo ano pela SPTECH 📚<br><br>Além disso, tenho conhecimentos em:  <br>Desenvolvimento Web  <br>Análise de Sistemas  <br>Sistemas Operacionais</p>
 
 ###
 
